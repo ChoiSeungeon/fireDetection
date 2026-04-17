@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local data and artifacts
+data/
+input/
+output/
+test_images/
+test_videos/
+consumer_annotated_frames/
+fire_results.db
+firebase_service_account.json
+token.txt
+
+# Models
+models/*
+!models/best.pt
+!models/best_fire_img_classifier_acc96.10.pth
+archive/local_only/
+
+# Kafka local installation
+kafka/
+
+# YOLO local caches
+yolov5/runs/
+
+# Android
+src/android/APP/.gradle/
+src/android/APP/.idea/
+src/android/APP/**/build/
+src/android/APP/local.properties
+src/android/APP/app/google-services.json
+

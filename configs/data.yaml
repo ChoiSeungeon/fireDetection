@@ -1,0 +1,5 @@
+train: C:/fireDetection/data/images/train_sampled
+val: C:/fireDetection/data/images/val_sampled
+
+nc: 2
+names: ['sm', 'fl']
