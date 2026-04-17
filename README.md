@@ -58,6 +58,12 @@
 
 ---
 
+## Thesis
+
+- [Bachelor Thesis PDF](./docs/thesis/bachelor-thesis.pdf)
+
+---
+
 ## Responsibilities
 
 ### 1) RTSP Frame Producer
